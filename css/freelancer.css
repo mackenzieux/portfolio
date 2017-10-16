@@ -58,10 +58,10 @@ hr.star-light:after {
   background-color: #666666; }
 
 hr.star-primary {
-  border-color: #ffe6ff; }
+  border-color: #ffe6f2; }
 
 hr.star-primary:after {
-  color: #ffe6ff;
+  color: #ffe6f2;
   background-color: white; }
 
 .img-centered {
@@ -105,7 +105,7 @@ section.success {
   font-weight: 700;
   text-transform: uppercase;
   border: none;
-  background: #ffe6ff; }
+  background: #ffe6f2; }
   #mainNav a:focus {
     outline: none; }
   #mainNav .navbar-brand {
@@ -270,7 +270,7 @@ header.masthead {
     -webkit-transform: rotate(45deg);
     -ms-transform: rotate(45deg);
     transform: rotate(45deg);
-    background-color: #ffe6ff; }
+    background-color: #ffe6f2; }
     .portfolio-modal .close-modal .lr .rl {
       /* Safari and Chrome */
       z-index: 1052;
@@ -280,7 +280,7 @@ header.masthead {
       -webkit-transform: rotate(90deg);
       -ms-transform: rotate(90deg);
       transform: rotate(90deg);
-      background-color: #ffe6ff; }
+      background-color: #ffe6f2; }
 
 .portfolio-modal .modal-backdrop {
   display: none;
@@ -338,7 +338,7 @@ footer {
     margin-bottom: 30px; }
   footer .footer-above {
     padding-top: 50px;
-    background-color: #ffe6ff; }
+    background-color: #ffe6f2; }
   footer .footer-col {
     margin-bottom: 50px; }
   footer .footer-below {
@@ -360,8 +360,8 @@ footer {
 .btn-primary {
   font-weight: 700;
   color: white;
-  border-color: #ffe6ff;
-  background-color: #ffe6ff; }
+  border-color: #ffe6f2;
+  background-color: #ffe6f2; }
   .btn-primary.focus, .btn-primary:focus {
     color: white;
     border-color: black;
@@ -389,10 +389,10 @@ footer {
   fieldset[disabled] .btn-primary.focus,
   fieldset[disabled] .btn-primary:focus,
   fieldset[disabled] .btn-primary:hover {
-    border-color: #ffe6ff;
-    background-color: #ffe6ff; }
+    border-color: #ffe6f2;
+    background-color: #ffe6f2; }
   .btn-primary .badge {
-    color: #ffe6ff;
+    color: #ffe6f2;
     background-color: white; }
 
 .btn-success {
