@@ -109,7 +109,7 @@ section.success {
   #mainNav a:focus {
     outline: none; }
   #mainNav .navbar-brand {
-    font-size: 1.1rem;
+    font-size: 0.5rem;
     color: white; }
     #mainNav .navbar-brand.active, #mainNav .navbar-brand:active, #mainNav .navbar-brand:focus, #mainNav .navbar-brand:hover {
       color: white; }
@@ -123,7 +123,7 @@ section.success {
       #mainNav .navbar-nav li.nav-item a.nav-link:active, #mainNav .navbar-nav li.nav-item a.nav-link:focus {
         color: white; }
   #mainNav .navbar-toggler {
-    font-size: 14px;
+    font-size: 0.5rem;
     padding: 11px;
     text-transform: uppercase;
     color: white;
@@ -141,7 +141,7 @@ section.success {
     -moz-transition: padding-top 0.3s, padding-bottom 0.3s;
     transition: padding-top 0.3s, padding-bottom 0.3s; }
     #mainNav .navbar-brand {
-      font-size: 2em;
+      font-size: 0.5em;
       -webkit-transition: all 0.3s;
       -moz-transition: all 0.3s;
       transition: all 0.3s; }
@@ -156,7 +156,7 @@ section.success {
     padding-top: 10px;
     padding-bottom: 10px; }
     #mainNav.navbar-shrink .navbar-brand {
-      font-size: 1.5em; } }
+      font-size: 0.5em; } }
 
 header.masthead {
   padding-top: 100px;
