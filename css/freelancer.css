@@ -116,8 +116,8 @@ section.success {
   #mainNav .navbar-nav {
     letter-spacing: 1px; }
     #mainNav .navbar-nav li.nav-item a.nav-link {
-      text-align: center; 
-      display: inline; 
+      /* text-align: center; */
+      float: left; 
       color: white; }
       #mainNav .navbar-nav li.nav-item a.nav-link:hover {
         color: #666666;
