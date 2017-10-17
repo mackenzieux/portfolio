@@ -10,7 +10,7 @@ body {
 ul {
     list-style-type: none;
     margin: auto;
-    width: 50%; 
+    width: 100%; 
     padding: 0;
     overflow: hidden;
     background-color: #ffe6f2;
