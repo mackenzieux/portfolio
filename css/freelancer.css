@@ -109,7 +109,9 @@ section.success {
   #mainNav a:focus {
     outline: none; }
   #mainNav .navbar-brand {
-    font-size: 1.1rem;
+    font-family: 'Sacramento', cursive;
+    font-size: 0.5rem;
+    text-transform: lowercase; 
     color: white; }
     #mainNav .navbar-brand.active, #mainNav .navbar-brand:active, #mainNav .navbar-brand:focus, #mainNav .navbar-brand:hover {
       color: white; }
@@ -168,7 +170,6 @@ header.masthead {
     display: block;
     margin: 0 auto 20px; }
   header.masthead .intro-text .name {
-    font-family: 'Sacramento', cursive;
     font-size: 2em;
     font-weight: 700;
     display: block; }
