@@ -168,7 +168,7 @@ header.masthead {
   background: #666666; }
   header.masthead img {
     display: block;
-    margin: 0 auto 20px; }
+    margin: 0 auto 0px; }
   header.masthead .intro-text .name {
     font-size: 2em;
     font-weight: 700;
