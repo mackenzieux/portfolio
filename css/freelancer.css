@@ -260,7 +260,7 @@ header.masthead {
   width: 75px;
   height: 75px;
   cursor: pointer;
-  background-color: transparent; }
+  background-color: #462F1F; }
   .portfolio-modal .close-modal:hover {
     opacity: 0.3; }
   .portfolio-modal .close-modal .lr {
