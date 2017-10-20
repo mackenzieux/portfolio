@@ -27,6 +27,7 @@ h4,
 h5,
 h6 {
   font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  color: white;
   font-weight: 700;
   text-transform: uppercase; }
 
@@ -54,13 +55,13 @@ hr.star-light {
 
 hr.star-light:after {
   color: white;
-  background-color: #666666; }
+  background-color: white; }
 
 hr.star-primary {
-  border-color: #ffe6f2; }
+  border-color: white; }
 
 hr.star-primary:after {
-  color: #ffe6f2;
+  color: white;
   background-color: white; }
 
 .img-centered {
@@ -269,7 +270,7 @@ header.masthead {
     -webkit-transform: rotate(45deg);
     -ms-transform: rotate(45deg);
     transform: rotate(45deg);
-    background-color: #ffe6f2; }
+    background-color: #3C2C1F; }
     .portfolio-modal .close-modal .lr .rl {
       /* Safari and Chrome */
       z-index: 1052;
@@ -279,7 +280,7 @@ header.masthead {
       -webkit-transform: rotate(90deg);
       -ms-transform: rotate(90deg);
       transform: rotate(90deg);
-      background-color: #ffe6f2; }
+      background-color: #3C2C1F; }
 
 .portfolio-modal .modal-backdrop {
   background-color: #462F1F;
