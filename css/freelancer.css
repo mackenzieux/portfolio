@@ -165,7 +165,9 @@ header.masthead {
   padding-bottom: 50px;
   text-align: center;
   color: white;
-  background: #666666; }
+  /* background: #666666; } */ 
+  background-image: url("brownplaid.jpg");
+  background-repeat: repeat;
   header.masthead img {
     display: block;
     margin: 0 auto 0px; }
