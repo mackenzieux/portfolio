@@ -18,8 +18,6 @@ a.active,
 a:active,
 a:focus,
 a:hover {
-  border-color: #D0B895;
-  background-color: #D0B895;
   outline: none; }
 
 h1,
@@ -150,11 +148,9 @@ section.success {
       transition: all 0.3s; }
     #mainNav .navbar-nav > li.nav-item > a.nav-link.active {
       color: white;
-      border-radius: 3px;
-      background: #D0B895; }
+      border-radius: 3px; }
       #mainNav .navbar-nav > li.nav-item > a.nav-link.active:active, #mainNav .navbar-nav > li.nav-item > a.nav-link.active:focus, #mainNav .navbar-nav > li.nav-item > a.nav-link.active:hover {
-        color: white;
-        background: #D0B895; }
+        color: white; }
   #mainNav.navbar-shrink {
     padding-top: 10px;
     padding-bottom: 10px; }
