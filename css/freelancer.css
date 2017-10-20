@@ -260,7 +260,7 @@ header.masthead {
   width: 75px;
   height: 75px;
   cursor: pointer;
-  background-color: #462F1F; }
+  background-color: transparent; }
   .portfolio-modal .close-modal:hover {
     opacity: 0.3; }
   .portfolio-modal .close-modal .lr {
@@ -286,7 +286,7 @@ header.masthead {
       background-color: #ffe6f2; }
 
 .portfolio-modal .modal-backdrop {
-  display: none;
+  background-color: #462F1F;
   opacity: 0; }
 
 .floating-label-form-group {
