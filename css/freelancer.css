@@ -75,7 +75,7 @@ section {
 
 section.success {
   color: white;
-  background: #666666; }
+  background: #462F1F; }
 
 @media (max-width: 767px) {
   section {
@@ -122,7 +122,7 @@ section.success {
     #mainNav .navbar-nav li.nav-item a.nav-link {
       color: white; }
       #mainNav .navbar-nav li.nav-item a.nav-link:hover {
-        color: #666666;
+        color: #231509;
         outline: none; }
       #mainNav .navbar-nav li.nav-item a.nav-link:active, #mainNav .navbar-nav li.nav-item a.nav-link:focus {
         color: white; }
@@ -134,8 +134,8 @@ section.success {
     border-color: white; }
     #mainNav .navbar-toggler:focus, #mainNav .navbar-toggler:hover {
       color: white;
-      border-color: #666666;
-      background-color: #666666; }
+      border-color: #231509;
+      background-color: #231509; }
 
 @media (min-width: 992px) {
   #mainNav {
