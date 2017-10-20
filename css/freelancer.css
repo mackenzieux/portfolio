@@ -18,7 +18,8 @@ a.active,
 a:active,
 a:focus,
 a:hover {
-  color: #666666;
+  border-color: #D0B895;
+  background-color: #D0B895;
   outline: none; }
 
 h1,
@@ -153,7 +154,7 @@ section.success {
     #mainNav .navbar-nav > li.nav-item > a.nav-link.active {
       color: white;
       border-radius: 3px;
-      background: #666666; }
+      background: #D0B895; }
       #mainNav .navbar-nav > li.nav-item > a.nav-link.active:active, #mainNav .navbar-nav > li.nav-item > a.nav-link.active:focus, #mainNav .navbar-nav > li.nav-item > a.nav-link.active:hover {
         color: white;
         background: #D0B895; }
