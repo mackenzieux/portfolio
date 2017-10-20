@@ -105,7 +105,9 @@ section.success {
   font-weight: 700;
   text-transform: uppercase;
   border: none;
-  background: #ffe6f2; }
+  /*background: #ffe6f2;*/
+  background-image: url("brownplaid.jpg");
+  background-repeat: repeat; }
   #mainNav a:focus {
     outline: none; }
   #mainNav .navbar-brand {
