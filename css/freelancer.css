@@ -7,9 +7,6 @@ body {
   font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   overflow-x: hidden; }
 
-#contact {
-  background-color: #D0B895; }
-
 p {
   font-size: 20px; }
 
@@ -292,6 +289,9 @@ header.masthead {
   background-color: #462F1F;
   opacity: 0; }
 
+#contact {
+  background: #D0B895; }
+
 .floating-label-form-group {
   position: relative;
   margin-bottom: 0;
@@ -349,7 +349,8 @@ footer {
     margin-bottom: 50px; }
   footer .footer-below {
     padding: 25px 0;
-    background-color: #666666; }
+    background-image: url("brownplaid.jpg");
+    background-repeat: repeat; }
 
 .btn-outline {
   font-size: 20px;
