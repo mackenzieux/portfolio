@@ -123,7 +123,7 @@ section.success {
     #mainNav .navbar-nav li.nav-item a.nav-link {
       color: white; }
       #mainNav .navbar-nav li.nav-item a.nav-link:hover {
-        color: #231509;
+        color: white;
         background-color: #D0B895;
         outline: none; }
       #mainNav .navbar-nav li.nav-item a.nav-link:active, #mainNav .navbar-nav li.nav-item a.nav-link:focus {
@@ -136,8 +136,8 @@ section.success {
     border-color: white; }
     #mainNav .navbar-toggler:focus, #mainNav .navbar-toggler:hover {
       color: white;
-      border-color: #231509;
-      background-color: #231509; }
+      border-color: #D0B895;
+      background-color: #D0B895; }
 
 @media (min-width: 992px) {
   #mainNav {
@@ -157,7 +157,7 @@ section.success {
       background: #D0B895; }
       #mainNav .navbar-nav > li.nav-item > a.nav-link.active:active, #mainNav .navbar-nav > li.nav-item > a.nav-link.active:focus, #mainNav .navbar-nav > li.nav-item > a.nav-link.active:hover {
         color: white;
-        background: #231509; }
+        background: #D0B895; }
   #mainNav.navbar-shrink {
     padding-top: 10px;
     padding-bottom: 10px; }
