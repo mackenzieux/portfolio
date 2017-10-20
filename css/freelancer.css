@@ -5,7 +5,7 @@
  */
 body {
   font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  /*overflow-x: hidden; }*/
+  overflow-x: hidden; }
 
 p {
   font-size: 20px; }
@@ -117,6 +117,7 @@ section.success {
     #mainNav .navbar-brand.active, #mainNav .navbar-brand:active, #mainNav .navbar-brand:focus, #mainNav .navbar-brand:hover {
       color: white; }
   #mainNav .navbar-nav {
+    overflow: visible;
     letter-spacing: 1px; }
     #mainNav .navbar-nav li.nav-item a.nav-link {
       color: white; }
