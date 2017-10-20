@@ -124,7 +124,6 @@ section.success {
       color: white; }
       #mainNav .navbar-nav li.nav-item a.nav-link:hover {
         color: white;
-        background-color: #D0B895;
         outline: none; }
       #mainNav .navbar-nav li.nav-item a.nav-link:active, #mainNav .navbar-nav li.nav-item a.nav-link:focus {
         color: white; }
@@ -135,9 +134,7 @@ section.success {
     color: white;
     border-color: white; }
     #mainNav .navbar-toggler:focus, #mainNav .navbar-toggler:hover {
-      color: white;
-      border-color: #D0B895;
-      background-color: #D0B895; }
+      color: white; }
 
 @media (min-width: 992px) {
   #mainNav {
