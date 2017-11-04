@@ -110,7 +110,6 @@ section.success {
   font-weight: 700;
   text-transform: uppercase;
   border: none;
-  /*background: #ffe6f2;*/
   background: #FFFFFF; }
   #mainNav a:focus {
     outline: none; }
@@ -124,9 +123,9 @@ section.success {
   #mainNav .navbar-nav {
     letter-spacing: 1px; }
     #mainNav .navbar-nav li.nav-item a.nav-link {
-      color: white; }
+      color: #DC8A53; }
       #mainNav .navbar-nav li.nav-item a.nav-link:hover {
-        color: #3C2C1F;
+        color: white;
         outline: none; }
       #mainNav .navbar-nav li.nav-item a.nav-link:active, #mainNav .navbar-nav li.nav-item a.nav-link:focus {
         color: white; }
@@ -134,7 +133,7 @@ section.success {
     font-size: 14px;
     padding: 11px;
     text-transform: uppercase;
-    color: white;
+    color: #DC8A53;
     border-color: white; }
     #mainNav .navbar-toggler:focus, #mainNav .navbar-toggler:hover {
       color: white; }
