@@ -80,7 +80,7 @@ section {
 
 section.success {
   color: white;
-  background: #907557; }
+  background: #FFFFFF; }
 
 @media (max-width: 767px) {
   section {
@@ -290,7 +290,7 @@ header.masthead {
   opacity: 0; }
 
 #contact {
-  background: #D0B895; }
+  background: #FFFFFF; }
 
 .floating-label-form-group {
   position: relative;
