@@ -113,6 +113,7 @@ section.success {
   /*background: #ffe6f2;*/
   background: #FFFFFF;
   background-image: url("/img/amgold.png");
+  background-size: contain;
   background-repeat: no-repeat; }
   #mainNav a:focus {
     outline: none; }
