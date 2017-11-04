@@ -123,20 +123,20 @@ section.success {
   #mainNav .navbar-nav {
     letter-spacing: 1px; }
     #mainNav .navbar-nav li.nav-item a.nav-link {
-      color: #DC8A53; }
+      color: #724A9E; }
       #mainNav .navbar-nav li.nav-item a.nav-link:hover {
-        color: white;
+        color: #724A9E;
         outline: none; }
       #mainNav .navbar-nav li.nav-item a.nav-link:active, #mainNav .navbar-nav li.nav-item a.nav-link:focus {
-        color: white; }
+        color: #724A9E; }
   #mainNav .navbar-toggler {
     font-size: 14px;
     padding: 11px;
     text-transform: uppercase;
-    color: #DC8A53;
+    color: #724A9E;
     border-color: white; }
     #mainNav .navbar-toggler:focus, #mainNav .navbar-toggler:hover {
-      color: white; }
+      color: #724A9E; }
 
 @media (min-width: 992px) {
   #mainNav {
@@ -151,10 +151,10 @@ section.success {
       -moz-transition: all 0.3s;
       transition: all 0.3s; }
     #mainNav .navbar-nav > li.nav-item > a.nav-link.active {
-      color: white;
+      color: #724A9E;
       border-radius: 3px; }
       #mainNav .navbar-nav > li.nav-item > a.nav-link.active:active, #mainNav .navbar-nav > li.nav-item > a.nav-link.active:focus, #mainNav .navbar-nav > li.nav-item > a.nav-link.active:hover {
-        color: white; }
+        color: #724A9E; }
   #mainNav.navbar-shrink {
     padding-top: 10px;
     padding-bottom: 10px; }
