@@ -9,11 +9,11 @@ body {
 
 p {
   font-size: 20px;
-  color: #724A9E;}
+  color: #515151;}
 
 p2 {
   font-size: 20px;
-  color: #724A9E; }
+  color: #515151; }
 
 p.small {
   font-size: 16px; }
@@ -32,7 +32,7 @@ h4,
 h5,
 h6 {
   font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  color: #724A9E;
+  color: #515151;
   font-weight: 700;
   text-transform: uppercase; }
 
@@ -79,7 +79,7 @@ section {
     margin: 0; }
 
 section.success {
-  color: 724A9E;
+  color: #515151;
   background: #FFFFFF; }
 
 @media (max-width: 767px) {
@@ -215,7 +215,7 @@ header.masthead {
         height: 20px;
         margin-top: -12px;
         text-align: center;
-        color: #724A9E; }
+        color: #515151; }
         #portfolio .portfolio-item .portfolio-link .caption .caption-content i {
           margin-top: -12px; }
         #portfolio .portfolio-item .portfolio-link .caption .caption-content h3,
@@ -272,7 +272,7 @@ header.masthead {
     -webkit-transform: rotate(45deg);
     -ms-transform: rotate(45deg);
     transform: rotate(45deg);
-    background-color: #000000; }
+    background-color: #515151; }
     .portfolio-modal .close-modal .lr .rl {
       /* Safari and Chrome */
       z-index: 1052;
@@ -282,7 +282,7 @@ header.masthead {
       -webkit-transform: rotate(90deg);
       -ms-transform: rotate(90deg);
       transform: rotate(90deg);
-      background-color: #000000; }
+      background-color: #515151; }
 
 .portfolio-modal .modal-backdrop {
   background-color: #FFFFFF;
@@ -339,7 +339,7 @@ form .row:first-child .floating-label-form-group {
 
 footer {
   background: #FFFFFF;
-  color: #724A9E; }
+  color: #515151; }
   footer h3 {
     margin-bottom: 30px; }
   footer .footer-above {
