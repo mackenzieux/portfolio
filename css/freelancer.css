@@ -110,7 +110,7 @@ section.success {
   font-weight: 700;
   text-transform: uppercase;
   border: none;
-  background-image: Url("/img/greybg.jpg");
+  background-image: url("/img/greybg.jpg");
   background-repeat: repeat; }
   #mainNav a:focus {
     outline: none; }
