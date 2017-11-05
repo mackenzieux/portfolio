@@ -111,6 +111,8 @@ section.success {
   text-transform: uppercase;
   border: none;
   background-color: #FFFFFF;
+  background-image: url("/img/greybg.jpg");
+  background-repeat: repeat; 
   #mainNav a:focus {
     outline: none; }
   #mainNav .navbar-brand {
@@ -166,7 +168,9 @@ header.masthead {
   padding-bottom: 50px;
   text-align: center;
   color: white;
-  background-color: #FFFFFF; }
+  background-color: #FFFFFF; 
+  background-image: url("/img/greybg.jpg"); 
+  background-repeat: repeat; }
   header.masthead img {
     display: block;
     margin: 0 auto 0px; }
