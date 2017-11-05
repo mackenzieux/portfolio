@@ -110,8 +110,7 @@ section.success {
   font-weight: 700;
   text-transform: uppercase;
   border: none;
-  background-image: url("/img/greybg.jpg");
-  background-repeat: repeat; }
+  background-color: #FFFFFF;
   #mainNav a:focus {
     outline: none; }
   #mainNav .navbar-brand {
@@ -167,8 +166,7 @@ header.masthead {
   padding-bottom: 50px;
   text-align: center;
   color: white;
-  background-image: url("/img/greybg.jpg");
-  background-repeat: repeat; }
+  background-color: #FFFFFF; }
   header.masthead img {
     display: block;
     margin: 0 auto 0px; }
